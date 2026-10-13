@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Finnja</h1>
-<h3 align="center">🎓 2nd Year Software & Electronic Engineering Student at Atlantic Technological University (ATU) <br> 
+<h3 align="center">🎓 3rd Year Software & Electronic Engineering Student at Atlantic Technological University (ATU) <br> 
   💻 Interested in Embedded Systems, IoT, and Software Development<br> 
   ⚡Building projects with C/C++, Python, Linux, and Full Stack Technologies <br> 
   🚀 Currently learning Cloud Computing, Embedded Systems, and Machine Learning</h3>
